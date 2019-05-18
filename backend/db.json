@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "fullName": "daniel",
+      "birthday": "21.4.1985",
+      "email": "danielknut85@gmail.com",
+      "password": "1",
+      "id": "1"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "username": "dor ben david",
+      "freespeech": "stop it",
+      "date": "2019-03-17T15:48:00.686Z",
+      "commentName1": "shalom argaman",
+      "commentText1": "ok, i will"
+    }
+  ]
+}
